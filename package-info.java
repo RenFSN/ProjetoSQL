@@ -1,1 +1,1 @@
-package br.senac.dao;
+package br.senac.application;
